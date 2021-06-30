@@ -1,6 +1,6 @@
 {
   "name": "@omtanke/react-material-icons",
-  "version": "1.0.",
+  "version": "1.0.0-Alpha-1",
   "description": "Google Fonts - Material Icons",
   "main": "src/index.js",
   "scripts": {
