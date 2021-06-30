@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTv(props) {
 	return (
 		<svg

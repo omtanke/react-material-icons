@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSportsMmaRound(props) {
 	return (
 		<svg

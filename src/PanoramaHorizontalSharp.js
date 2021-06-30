@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPanoramaHorizontalSharp(props) {
 	return (
 		<svg

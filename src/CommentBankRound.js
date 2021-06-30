@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCommentBankRound(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgForwardToInboxOutlined(props) {
 	return (
 		<svg

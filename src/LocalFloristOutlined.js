@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLocalFloristOutlined(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFilter9PlusSharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCorporateFareTwoTone(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHighlightSharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMultilineChartTwoTone(props) {
 	return (
 		<svg

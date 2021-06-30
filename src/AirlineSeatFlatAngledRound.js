@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAirlineSeatFlatAngledRound(props) {
 	return (
 		<svg

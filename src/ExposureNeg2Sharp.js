@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgExposureNeg2Sharp(props) {
 	return (
 		<svg

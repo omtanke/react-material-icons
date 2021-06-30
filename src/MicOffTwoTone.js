@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMicOffTwoTone(props) {
 	return (
 		<svg

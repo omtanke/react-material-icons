@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDirectionsBikeSharp(props) {
 	return (
 		<svg

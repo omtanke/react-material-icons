@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg3GMobiledataTwoTone(props) {
 	return (
 		<svg

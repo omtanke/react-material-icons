@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBalconyOutlined(props) {
 	return (
 		<svg

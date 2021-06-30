@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDriveFileRenameOutlineTwoTone(props) {
 	return (
 		<svg

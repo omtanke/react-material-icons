@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgExpandSharp(props) {
 	return (
 		<svg

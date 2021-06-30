@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgViewDayOutlined(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgChatTwoTone(props) {
 	return (
 		<svg

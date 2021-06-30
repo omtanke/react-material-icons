@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEjectSharp(props) {
 	return (
 		<svg

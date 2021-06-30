@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPanoramaVerticalSelect(props) {
 	return (
 		<svg

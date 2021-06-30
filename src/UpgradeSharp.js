@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgUpgradeSharp(props) {
 	return (
 		<svg

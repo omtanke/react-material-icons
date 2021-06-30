@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAlignVerticalBottomOutlined(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCrop75Round(props) {
 	return (
 		<svg

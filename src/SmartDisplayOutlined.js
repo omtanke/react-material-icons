@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSmartDisplayOutlined(props) {
 	return (
 		<svg

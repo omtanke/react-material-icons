@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBlurOffRound(props) {
 	return (
 		<svg

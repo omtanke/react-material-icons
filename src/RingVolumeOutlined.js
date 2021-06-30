@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgRingVolumeOutlined(props) {
 	return (
 		<svg

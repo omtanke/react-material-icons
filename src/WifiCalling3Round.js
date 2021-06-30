@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgWifiCalling3Round(props) {
 	return (
 		<svg

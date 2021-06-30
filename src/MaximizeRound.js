@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMaximizeRound(props) {
 	return (
 		<svg

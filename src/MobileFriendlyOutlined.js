@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMobileFriendlyOutlined(props) {
 	return (
 		<svg

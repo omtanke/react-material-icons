@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgRotate90DegreesCcwTwoTone(props) {
 	return (
 		<svg

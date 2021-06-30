@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCropRotateOutlined(props) {
 	return (
 		<svg

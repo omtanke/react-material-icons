@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSipSharp(props) {
 	return (
 		<svg

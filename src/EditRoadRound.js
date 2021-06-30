@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEditRoadRound(props) {
 	return (
 		<svg

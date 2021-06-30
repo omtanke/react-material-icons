@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLocalPizzaRound(props) {
 	return (
 		<svg

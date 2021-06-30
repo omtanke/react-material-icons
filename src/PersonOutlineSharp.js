@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPersonOutlineSharp(props) {
 	return (
 		<svg

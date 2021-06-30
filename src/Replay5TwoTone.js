@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgReplay5TwoTone(props) {
 	return (
 		<svg

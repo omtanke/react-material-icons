@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgStickyNote2Round(props) {
 	return (
 		<svg

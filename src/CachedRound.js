@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCachedRound(props) {
 	return (
 		<svg

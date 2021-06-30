@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgExtensionOffSharp(props) {
 	return (
 		<svg

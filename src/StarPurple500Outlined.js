@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgStarPurple500Outlined(props) {
 	return (
 		<svg

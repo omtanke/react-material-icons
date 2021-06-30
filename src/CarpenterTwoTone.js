@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCarpenterTwoTone(props) {
 	return (
 		<svg

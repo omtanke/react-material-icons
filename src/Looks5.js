@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLooks5(props) {
 	return (
 		<svg

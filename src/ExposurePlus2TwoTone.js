@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgExposurePlus2TwoTone(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgShuffleOn(props) {
 	return (
 		<svg

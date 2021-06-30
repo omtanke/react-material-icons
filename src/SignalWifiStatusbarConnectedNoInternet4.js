@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSignalWifiStatusbarConnectedNoInternet4(props) {
 	return (
 		<svg

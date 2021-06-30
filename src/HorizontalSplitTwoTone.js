@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHorizontalSplitTwoTone(props) {
 	return (
 		<svg

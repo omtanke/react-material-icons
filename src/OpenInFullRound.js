@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgOpenInFullRound(props) {
 	return (
 		<svg

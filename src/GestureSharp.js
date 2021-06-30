@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGestureSharp(props) {
 	return (
 		<svg

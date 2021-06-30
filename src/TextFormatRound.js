@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTextFormatRound(props) {
 	return (
 		<svg

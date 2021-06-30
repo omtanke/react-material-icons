@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTungstenTwoTone(props) {
 	return (
 		<svg

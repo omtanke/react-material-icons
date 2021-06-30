@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBatteryAlertRound(props) {
 	return (
 		<svg

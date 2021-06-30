@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTextSnippetOutlined(props) {
 	return (
 		<svg

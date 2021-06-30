@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGraphicEq(props) {
 	return (
 		<svg

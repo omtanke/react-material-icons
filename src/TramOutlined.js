@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTramOutlined(props) {
 	return (
 		<svg

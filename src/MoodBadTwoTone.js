@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMoodBadTwoTone(props) {
 	return (
 		<svg

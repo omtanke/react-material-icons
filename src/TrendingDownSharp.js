@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTrendingDownSharp(props) {
 	return (
 		<svg

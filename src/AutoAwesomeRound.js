@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAutoAwesomeRound(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPhoneForwardedRound(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg11MpTwoTone(props) {
 	return (
 		<svg

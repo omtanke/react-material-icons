@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGradingTwoTone(props) {
 	return (
 		<svg

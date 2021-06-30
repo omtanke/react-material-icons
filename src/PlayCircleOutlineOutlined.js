@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPlayCircleOutlineOutlined(props) {
 	return (
 		<svg

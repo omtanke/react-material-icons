@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLibraryMusicOutlined(props) {
 	return (
 		<svg

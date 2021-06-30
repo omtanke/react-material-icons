@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMoreSharp(props) {
 	return (
 		<svg

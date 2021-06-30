@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCenterFocusStrongSharp(props) {
 	return (
 		<svg

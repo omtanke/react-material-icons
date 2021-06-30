@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEarbudsSharp(props) {
 	return (
 		<svg

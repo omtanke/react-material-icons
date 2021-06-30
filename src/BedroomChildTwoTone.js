@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBedroomChildTwoTone(props) {
 	return (
 		<svg

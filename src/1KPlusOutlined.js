@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg1KPlusOutlined(props) {
 	return (
 		<svg

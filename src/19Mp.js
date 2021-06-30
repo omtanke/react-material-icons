@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg19Mp(props) {
 	return (
 		<svg

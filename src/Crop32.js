@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCrop32(props) {
 	return (
 		<svg

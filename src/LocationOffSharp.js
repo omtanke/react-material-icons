@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLocationOffSharp(props) {
 	return (
 		<svg

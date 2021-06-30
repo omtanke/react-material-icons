@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDirectionsTransit(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPanoramaHorizontalSelectRound(props) {
 	return (
 		<svg

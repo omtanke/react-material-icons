@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEuroSymbolSharp(props) {
 	return (
 		<svg

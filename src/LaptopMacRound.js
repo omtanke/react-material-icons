@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLaptopMacRound(props) {
 	return (
 		<svg

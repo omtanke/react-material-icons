@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGolfCourse(props) {
 	return (
 		<svg

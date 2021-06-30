@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEmojiEmotionsTwoTone(props) {
 	return (
 		<svg

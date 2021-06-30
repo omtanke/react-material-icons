@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBrunchDiningTwoTone(props) {
 	return (
 		<svg

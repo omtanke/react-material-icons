@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTaskOutlined(props) {
 	return (
 		<svg

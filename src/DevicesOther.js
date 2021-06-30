@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDevicesOther(props) {
 	return (
 		<svg

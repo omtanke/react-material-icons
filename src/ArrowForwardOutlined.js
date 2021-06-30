@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgArrowForwardOutlined(props) {
 	return (
 		<svg

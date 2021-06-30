@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgRequestQuote(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgWcRound(props) {
 	return (
 		<svg

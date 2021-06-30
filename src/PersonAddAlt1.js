@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPersonAddAlt1(props) {
 	return (
 		<svg

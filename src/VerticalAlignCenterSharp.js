@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgVerticalAlignCenterSharp(props) {
 	return (
 		<svg

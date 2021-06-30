@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSpeakerGroupOutlined(props) {
 	return (
 		<svg

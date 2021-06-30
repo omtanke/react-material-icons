@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgIceSkating(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgReplay30(props) {
 	return (
 		<svg

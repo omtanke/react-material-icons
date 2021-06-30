@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLayersTwoTone(props) {
 	return (
 		<svg

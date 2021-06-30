@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgShoppingBasketSharp(props) {
 	return (
 		<svg

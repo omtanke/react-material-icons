@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBluetoothDisabledSharp(props) {
 	return (
 		<svg

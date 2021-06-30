@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGrid3X3Outlined(props) {
 	return (
 		<svg

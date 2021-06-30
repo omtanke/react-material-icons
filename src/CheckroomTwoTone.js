@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCheckroomTwoTone(props) {
 	return (
 		<svg

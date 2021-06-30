@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCleaningServicesRound(props) {
 	return (
 		<svg

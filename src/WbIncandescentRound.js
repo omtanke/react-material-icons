@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgWbIncandescentRound(props) {
 	return (
 		<svg

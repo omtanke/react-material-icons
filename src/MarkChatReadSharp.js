@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMarkChatReadSharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPlayForWorkOutlined(props) {
 	return (
 		<svg

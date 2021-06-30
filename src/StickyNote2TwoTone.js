@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgStickyNote2TwoTone(props) {
 	return (
 		<svg

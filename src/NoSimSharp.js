@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgNoSimSharp(props) {
 	return (
 		<svg

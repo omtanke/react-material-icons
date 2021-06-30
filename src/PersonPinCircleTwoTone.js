@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPersonPinCircleTwoTone(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgKeyboardArrowUpOutlined(props) {
 	return (
 		<svg

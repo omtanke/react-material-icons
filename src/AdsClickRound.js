@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAdsClickRound(props) {
 	return (
 		<svg

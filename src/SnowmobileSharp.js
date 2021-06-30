@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSnowmobileSharp(props) {
 	return (
 		<svg

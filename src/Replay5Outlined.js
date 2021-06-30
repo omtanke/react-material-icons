@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgReplay5Outlined(props) {
 	return (
 		<svg

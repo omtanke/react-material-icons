@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTabUnselectedSharp(props) {
 	return (
 		<svg

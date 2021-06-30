@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSignalCellular0Bar(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDonutSmallSharp(props) {
 	return (
 		<svg

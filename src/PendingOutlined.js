@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPendingOutlined(props) {
 	return (
 		<svg

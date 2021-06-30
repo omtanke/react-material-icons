@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMoreHorizRound(props) {
 	return (
 		<svg

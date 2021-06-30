@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFiberNewTwoTone(props) {
 	return (
 		<svg

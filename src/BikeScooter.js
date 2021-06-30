@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBikeScooter(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgInventory2Round(props) {
 	return (
 		<svg

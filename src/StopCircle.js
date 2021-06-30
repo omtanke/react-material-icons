@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgStopCircle(props) {
 	return (
 		<svg

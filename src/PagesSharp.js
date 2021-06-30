@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPagesSharp(props) {
 	return (
 		<svg

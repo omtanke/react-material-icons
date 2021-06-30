@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDryRound(props) {
 	return (
 		<svg

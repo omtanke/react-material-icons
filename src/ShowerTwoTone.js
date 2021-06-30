@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgShowerTwoTone(props) {
 	return (
 		<svg

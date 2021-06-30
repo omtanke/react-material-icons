@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgWifiCalling2TwoTone(props) {
 	return (
 		<svg

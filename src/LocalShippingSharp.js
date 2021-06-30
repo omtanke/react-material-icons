@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLocalShippingSharp(props) {
 	return (
 		<svg

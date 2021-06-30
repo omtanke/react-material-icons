@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLiveHelpOutlined(props) {
 	return (
 		<svg

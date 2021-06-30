@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDiscFullTwoTone(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSleddingTwoTone(props) {
 	return (
 		<svg

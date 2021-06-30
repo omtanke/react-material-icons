@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgReplay10Round(props) {
 	return (
 		<svg

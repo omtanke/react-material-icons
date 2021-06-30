@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBatteryCharging60TwoTone(props) {
 	return (
 		<svg

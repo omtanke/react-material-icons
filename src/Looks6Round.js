@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLooks6Round(props) {
 	return (
 		<svg

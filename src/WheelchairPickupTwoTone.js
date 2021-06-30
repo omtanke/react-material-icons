@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgWheelchairPickupTwoTone(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLooks6Outlined(props) {
 	return (
 		<svg

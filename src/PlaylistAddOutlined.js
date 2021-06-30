@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPlaylistAddOutlined(props) {
 	return (
 		<svg

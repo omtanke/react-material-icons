@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAddCommentTwoTone(props) {
 	return (
 		<svg

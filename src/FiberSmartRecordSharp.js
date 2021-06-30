@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFiberSmartRecordSharp(props) {
 	return (
 		<svg

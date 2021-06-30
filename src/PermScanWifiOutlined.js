@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPermScanWifiOutlined(props) {
 	return (
 		<svg

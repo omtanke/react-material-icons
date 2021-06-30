@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAirlineSeatFlatAngledTwoTone(props) {
 	return (
 		<svg

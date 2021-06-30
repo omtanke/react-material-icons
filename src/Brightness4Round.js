@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBrightness4Round(props) {
 	return (
 		<svg

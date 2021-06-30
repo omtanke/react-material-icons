@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCrop169TwoTone(props) {
 	return (
 		<svg

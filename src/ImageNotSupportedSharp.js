@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgImageNotSupportedSharp(props) {
 	return (
 		<svg

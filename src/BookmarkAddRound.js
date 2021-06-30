@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBookmarkAddRound(props) {
 	return (
 		<svg

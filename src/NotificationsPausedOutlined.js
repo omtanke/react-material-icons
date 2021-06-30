@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgNotificationsPausedOutlined(props) {
 	return (
 		<svg

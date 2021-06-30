@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBluetoothDriveSharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgNightShelterRound(props) {
 	return (
 		<svg

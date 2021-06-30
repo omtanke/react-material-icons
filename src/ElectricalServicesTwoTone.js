@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgElectricalServicesTwoTone(props) {
 	return (
 		<svg

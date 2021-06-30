@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgNoCellSharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFilter8Outlined(props) {
 	return (
 		<svg

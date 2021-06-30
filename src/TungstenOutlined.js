@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTungstenOutlined(props) {
 	return (
 		<svg

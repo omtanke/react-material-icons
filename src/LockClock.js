@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLockClock(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAccountBoxTwoTone(props) {
 	return (
 		<svg

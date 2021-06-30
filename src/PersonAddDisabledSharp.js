@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPersonAddDisabledSharp(props) {
 	return (
 		<svg

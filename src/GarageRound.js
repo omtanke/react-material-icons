@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGarageRound(props) {
 	return (
 		<svg

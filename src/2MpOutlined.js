@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg2MpOutlined(props) {
 	return (
 		<svg

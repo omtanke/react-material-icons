@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCropRotateRound(props) {
 	return (
 		<svg

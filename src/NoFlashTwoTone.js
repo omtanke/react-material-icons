@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgNoFlashTwoTone(props) {
 	return (
 		<svg

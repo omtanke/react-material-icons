@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHighlightRound(props) {
 	return (
 		<svg

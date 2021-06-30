@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSmartToyRound(props) {
 	return (
 		<svg

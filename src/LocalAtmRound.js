@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLocalAtmRound(props) {
 	return (
 		<svg

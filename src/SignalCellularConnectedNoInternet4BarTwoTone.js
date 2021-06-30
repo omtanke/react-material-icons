@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSignalCellularConnectedNoInternet4BarTwoTone(props) {
 	return (
 		<svg

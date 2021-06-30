@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgQrCode2Round(props) {
 	return (
 		<svg

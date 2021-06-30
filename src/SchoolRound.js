@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSchoolRound(props) {
 	return (
 		<svg

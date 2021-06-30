@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSwitchRightTwoTone(props) {
 	return (
 		<svg

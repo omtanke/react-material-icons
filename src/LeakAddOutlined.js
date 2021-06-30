@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLeakAddOutlined(props) {
 	return (
 		<svg

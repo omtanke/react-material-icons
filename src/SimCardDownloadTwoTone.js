@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSimCardDownloadTwoTone(props) {
 	return (
 		<svg

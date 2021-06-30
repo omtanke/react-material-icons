@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGeneratingTokensRound(props) {
 	return (
 		<svg

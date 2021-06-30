@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgToggleOffSharp(props) {
 	return (
 		<svg

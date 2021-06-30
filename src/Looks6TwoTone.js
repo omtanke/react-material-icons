@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLooks6TwoTone(props) {
 	return (
 		<svg

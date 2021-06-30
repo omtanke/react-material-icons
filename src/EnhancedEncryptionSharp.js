@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEnhancedEncryptionSharp(props) {
 	return (
 		<svg

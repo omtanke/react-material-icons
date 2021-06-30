@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSignalWifi2BarTwoTone(props) {
 	return (
 		<svg

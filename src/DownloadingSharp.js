@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDownloadingSharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgYoutubeSearchedForRound(props) {
 	return (
 		<svg

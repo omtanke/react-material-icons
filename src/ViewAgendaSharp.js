@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgViewAgendaSharp(props) {
 	return (
 		<svg

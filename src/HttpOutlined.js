@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHttpOutlined(props) {
 	return (
 		<svg

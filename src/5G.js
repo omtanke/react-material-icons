@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg5G(props) {
 	return (
 		<svg

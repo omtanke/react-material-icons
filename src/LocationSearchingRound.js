@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLocationSearchingRound(props) {
 	return (
 		<svg

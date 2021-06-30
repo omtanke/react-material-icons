@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFilter4TwoTone(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDoNotDisturbOnTotalSilenceRound(props) {
 	return (
 		<svg

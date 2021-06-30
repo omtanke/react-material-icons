@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDownloadRound(props) {
 	return (
 		<svg

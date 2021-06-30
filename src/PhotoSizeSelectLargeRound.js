@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPhotoSizeSelectLargeRound(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEmojiNatureSharp(props) {
 	return (
 		<svg

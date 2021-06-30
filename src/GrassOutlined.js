@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGrassOutlined(props) {
 	return (
 		<svg

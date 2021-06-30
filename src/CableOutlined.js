@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCableOutlined(props) {
 	return (
 		<svg

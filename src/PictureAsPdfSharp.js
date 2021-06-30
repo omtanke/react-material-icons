@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPictureAsPdfSharp(props) {
 	return (
 		<svg

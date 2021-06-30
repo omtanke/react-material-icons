@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDeleteForeverOutlined(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBackpackTwoTone(props) {
 	return (
 		<svg

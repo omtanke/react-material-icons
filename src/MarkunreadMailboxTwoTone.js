@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMarkunreadMailboxTwoTone(props) {
 	return (
 		<svg

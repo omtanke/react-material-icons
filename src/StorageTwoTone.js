@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgStorageTwoTone(props) {
 	return (
 		<svg

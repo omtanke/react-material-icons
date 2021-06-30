@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPersonAddAlt1Outlined(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg19MpSharp(props) {
 	return (
 		<svg

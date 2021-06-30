@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPersonRemoveAlt1Round(props) {
 	return (
 		<svg

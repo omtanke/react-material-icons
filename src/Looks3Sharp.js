@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLooks3Sharp(props) {
 	return (
 		<svg

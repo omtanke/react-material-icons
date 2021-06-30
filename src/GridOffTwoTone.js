@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGridOffTwoTone(props) {
 	return (
 		<svg

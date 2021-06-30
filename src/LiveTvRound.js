@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLiveTvRound(props) {
 	return (
 		<svg

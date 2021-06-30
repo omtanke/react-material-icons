@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgForward30TwoTone(props) {
 	return (
 		<svg

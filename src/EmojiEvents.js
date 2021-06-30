@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEmojiEvents(props) {
 	return (
 		<svg

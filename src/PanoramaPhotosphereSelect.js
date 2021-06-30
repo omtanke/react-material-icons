@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPanoramaPhotosphereSelect(props) {
 	return (
 		<svg

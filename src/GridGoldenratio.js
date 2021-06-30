@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGridGoldenratio(props) {
 	return (
 		<svg

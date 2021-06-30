@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgChevronRightTwoTone(props) {
 	return (
 		<svg

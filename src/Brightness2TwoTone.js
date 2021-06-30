@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBrightness2TwoTone(props) {
 	return (
 		<svg

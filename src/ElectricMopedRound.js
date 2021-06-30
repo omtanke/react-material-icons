@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgElectricMopedRound(props) {
 	return (
 		<svg

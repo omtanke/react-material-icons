@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHdrPlusOutlined(props) {
 	return (
 		<svg

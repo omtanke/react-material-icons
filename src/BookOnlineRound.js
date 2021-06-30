@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBookOnlineRound(props) {
 	return (
 		<svg

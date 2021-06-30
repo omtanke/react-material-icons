@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg4K(props) {
 	return (
 		<svg

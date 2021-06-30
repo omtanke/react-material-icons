@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTimer3Select(props) {
 	return (
 		<svg

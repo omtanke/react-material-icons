@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMoneyOffRound(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMusicVideoRound(props) {
 	return (
 		<svg

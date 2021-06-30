@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFindReplaceOutlined(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEditLocationAltOutlined(props) {
 	return (
 		<svg

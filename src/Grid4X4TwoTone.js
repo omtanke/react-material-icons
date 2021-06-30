@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGrid4X4TwoTone(props) {
 	return (
 		<svg

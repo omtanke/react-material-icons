@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSyncAltOutlined(props) {
 	return (
 		<svg

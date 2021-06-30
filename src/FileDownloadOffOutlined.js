@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFileDownloadOffOutlined(props) {
 	return (
 		<svg

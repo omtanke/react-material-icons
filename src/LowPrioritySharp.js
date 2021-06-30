@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLowPrioritySharp(props) {
 	return (
 		<svg

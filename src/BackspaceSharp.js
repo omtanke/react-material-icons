@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBackspaceSharp(props) {
 	return (
 		<svg

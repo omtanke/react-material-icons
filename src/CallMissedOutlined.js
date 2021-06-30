@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCallMissedOutlined(props) {
 	return (
 		<svg

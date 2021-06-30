@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHearing(props) {
 	return (
 		<svg

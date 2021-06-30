@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSignalWifiOff(props) {
 	return (
 		<svg

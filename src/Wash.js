@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgWash(props) {
 	return (
 		<svg

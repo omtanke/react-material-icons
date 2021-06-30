@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAttribution(props) {
 	return (
 		<svg

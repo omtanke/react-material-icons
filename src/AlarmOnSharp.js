@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAlarmOnSharp(props) {
 	return (
 		<svg

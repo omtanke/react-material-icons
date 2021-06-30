@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBrush(props) {
 	return (
 		<svg

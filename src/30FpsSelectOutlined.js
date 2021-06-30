@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg30FpsSelectOutlined(props) {
 	return (
 		<svg

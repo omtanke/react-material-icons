@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgThumbDownSharp(props) {
 	return (
 		<svg

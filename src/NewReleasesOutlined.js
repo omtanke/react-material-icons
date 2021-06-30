@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgNewReleasesOutlined(props) {
 	return (
 		<svg

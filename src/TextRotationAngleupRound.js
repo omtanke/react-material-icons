@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTextRotationAngleupRound(props) {
 	return (
 		<svg

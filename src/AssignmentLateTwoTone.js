@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAssignmentLateTwoTone(props) {
 	return (
 		<svg

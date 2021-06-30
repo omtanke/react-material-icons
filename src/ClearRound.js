@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgClearRound(props) {
 	return (
 		<svg

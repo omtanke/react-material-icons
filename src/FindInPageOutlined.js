@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFindInPageOutlined(props) {
 	return (
 		<svg

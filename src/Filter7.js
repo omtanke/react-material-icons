@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFilter7(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSportsBaseballSharp(props) {
 	return (
 		<svg

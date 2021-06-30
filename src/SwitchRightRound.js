@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSwitchRightRound(props) {
 	return (
 		<svg

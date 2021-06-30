@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAttachEmailOutlined(props) {
 	return (
 		<svg

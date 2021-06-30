@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgWidgetsSharp(props) {
 	return (
 		<svg

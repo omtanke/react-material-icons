@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFlakyRound(props) {
 	return (
 		<svg

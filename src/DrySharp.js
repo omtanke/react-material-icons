@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDrySharp(props) {
 	return (
 		<svg

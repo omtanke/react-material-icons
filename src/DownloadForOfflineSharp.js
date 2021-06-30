@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDownloadForOfflineSharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCompress(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgRailwayAlertTwoTone(props) {
 	return (
 		<svg

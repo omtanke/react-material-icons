@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBook(props) {
 	return (
 		<svg

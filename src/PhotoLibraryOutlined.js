@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPhotoLibraryOutlined(props) {
 	return (
 		<svg

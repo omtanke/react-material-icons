@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPublicRound(props) {
 	return (
 		<svg

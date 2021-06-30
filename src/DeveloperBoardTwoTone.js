@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDeveloperBoardTwoTone(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSettingsInputHdmiRound(props) {
 	return (
 		<svg

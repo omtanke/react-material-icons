@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBrokenImageOutlined(props) {
 	return (
 		<svg

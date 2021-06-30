@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSplitscreenOutlined(props) {
 	return (
 		<svg

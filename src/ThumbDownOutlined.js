@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgThumbDownOutlined(props) {
 	return (
 		<svg

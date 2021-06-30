@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgArrowBackSharp(props) {
 	return (
 		<svg

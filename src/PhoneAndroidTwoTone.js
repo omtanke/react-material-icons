@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPhoneAndroidTwoTone(props) {
 	return (
 		<svg

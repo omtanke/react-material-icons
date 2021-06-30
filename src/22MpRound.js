@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg22MpRound(props) {
 	return (
 		<svg

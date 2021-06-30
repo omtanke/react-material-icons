@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAlarmAddRound(props) {
 	return (
 		<svg

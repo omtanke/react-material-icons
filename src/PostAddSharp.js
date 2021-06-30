@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPostAddSharp(props) {
 	return (
 		<svg

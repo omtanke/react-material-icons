@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSettingsInputCompositeSharp(props) {
 	return (
 		<svg

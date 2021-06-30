@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgExpandMoreRound(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgRoundedCornerSharp(props) {
 	return (
 		<svg

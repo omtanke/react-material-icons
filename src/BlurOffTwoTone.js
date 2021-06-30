@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBlurOffTwoTone(props) {
 	return (
 		<svg

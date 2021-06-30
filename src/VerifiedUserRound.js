@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgVerifiedUserRound(props) {
 	return (
 		<svg

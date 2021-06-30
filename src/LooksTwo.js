@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLooksTwo(props) {
 	return (
 		<svg

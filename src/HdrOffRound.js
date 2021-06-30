@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHdrOffRound(props) {
 	return (
 		<svg

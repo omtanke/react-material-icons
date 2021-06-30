@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHomeMiniSharp(props) {
 	return (
 		<svg

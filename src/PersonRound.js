@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPersonRound(props) {
 	return (
 		<svg

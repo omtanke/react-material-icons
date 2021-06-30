@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTimer10Round(props) {
 	return (
 		<svg

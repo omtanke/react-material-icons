@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAccessAlarmOutlined(props) {
 	return (
 		<svg

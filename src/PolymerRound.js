@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPolymerRound(props) {
 	return (
 		<svg

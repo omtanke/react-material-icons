@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgRestaurant(props) {
 	return (
 		<svg

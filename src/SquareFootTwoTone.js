@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSquareFootTwoTone(props) {
 	return (
 		<svg

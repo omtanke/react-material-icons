@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSubwaySharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgModeEditTwoTone(props) {
 	return (
 		<svg

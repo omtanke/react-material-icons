@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgOpacity(props) {
 	return (
 		<svg

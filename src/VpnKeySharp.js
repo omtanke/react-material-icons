@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgVpnKeySharp(props) {
 	return (
 		<svg

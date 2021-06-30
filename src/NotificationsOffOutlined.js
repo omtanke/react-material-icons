@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgNotificationsOffOutlined(props) {
 	return (
 		<svg

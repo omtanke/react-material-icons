@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgScannerSharp(props) {
 	return (
 		<svg

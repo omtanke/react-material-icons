@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBrightness6Outlined(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBoltRound(props) {
 	return (
 		<svg

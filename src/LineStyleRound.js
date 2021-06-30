@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLineStyleRound(props) {
 	return (
 		<svg

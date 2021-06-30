@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCloudQueueRound(props) {
 	return (
 		<svg

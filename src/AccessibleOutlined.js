@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAccessibleOutlined(props) {
 	return (
 		<svg

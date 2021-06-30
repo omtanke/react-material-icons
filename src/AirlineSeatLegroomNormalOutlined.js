@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAirlineSeatLegroomNormalOutlined(props) {
 	return (
 		<svg

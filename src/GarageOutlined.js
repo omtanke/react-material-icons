@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGarageOutlined(props) {
 	return (
 		<svg

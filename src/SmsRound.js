@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSmsRound(props) {
 	return (
 		<svg

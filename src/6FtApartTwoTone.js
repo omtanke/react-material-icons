@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function Svg6FtApartTwoTone(props) {
 	return (
 		<svg

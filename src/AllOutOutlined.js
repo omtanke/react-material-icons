@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAllOutOutlined(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgBrightness7Sharp(props) {
 	return (
 		<svg

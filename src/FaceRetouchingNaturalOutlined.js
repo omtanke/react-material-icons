@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFaceRetouchingNaturalOutlined(props) {
 	return (
 		<svg

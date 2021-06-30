@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDangerousOutlined(props) {
 	return (
 		<svg

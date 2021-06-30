@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgArrowCircleUpRound(props) {
 	return (
 		<svg

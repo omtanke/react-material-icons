@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgViewStreamRound(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgFormatPaintSharp(props) {
 	return (
 		<svg

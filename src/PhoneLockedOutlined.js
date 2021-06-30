@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPhoneLockedOutlined(props) {
 	return (
 		<svg

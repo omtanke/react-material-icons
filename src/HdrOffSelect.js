@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHdrOffSelect(props) {
 	return (
 		<svg

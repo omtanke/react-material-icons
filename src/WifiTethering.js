@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgWifiTethering(props) {
 	return (
 		<svg

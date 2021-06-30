@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgInventory2Outlined(props) {
 	return (
 		<svg

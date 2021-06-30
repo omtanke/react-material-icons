@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgStarBorderPurple500(props) {
 	return (
 		<svg

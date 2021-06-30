@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgEmojiSymbolsOutlined(props) {
 	return (
 		<svg

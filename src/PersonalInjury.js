@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPersonalInjury(props) {
 	return (
 		<svg

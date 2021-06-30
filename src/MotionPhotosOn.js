@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMotionPhotosOn(props) {
 	return (
 		<svg

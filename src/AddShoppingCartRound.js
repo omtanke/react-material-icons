@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAddShoppingCartRound(props) {
 	return (
 		<svg

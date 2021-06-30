@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLiveTvSharp(props) {
 	return (
 		<svg

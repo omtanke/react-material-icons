@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCropLandscapeRound(props) {
 	return (
 		<svg

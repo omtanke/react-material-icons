@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgOpacityOutlined(props) {
 	return (
 		<svg

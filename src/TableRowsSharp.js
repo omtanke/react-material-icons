@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTableRowsSharp(props) {
 	return (
 		<svg

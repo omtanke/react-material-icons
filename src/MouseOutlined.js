@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMouseOutlined(props) {
 	return (
 		<svg

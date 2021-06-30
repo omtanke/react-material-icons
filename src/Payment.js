@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPayment(props) {
 	return (
 		<svg

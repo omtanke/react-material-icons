@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgHistoryTwoTone(props) {
 	return (
 		<svg

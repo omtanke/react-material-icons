@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTrafficSharp(props) {
 	return (
 		<svg

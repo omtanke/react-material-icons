@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCrop54(props) {
 	return (
 		<svg

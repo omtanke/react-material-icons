@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMail(props) {
 	return (
 		<svg

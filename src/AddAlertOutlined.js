@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgAddAlertOutlined(props) {
 	return (
 		<svg

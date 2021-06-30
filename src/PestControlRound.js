@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPestControlRound(props) {
 	return (
 		<svg

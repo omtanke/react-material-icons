@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgTuneSharp(props) {
 	return (
 		<svg

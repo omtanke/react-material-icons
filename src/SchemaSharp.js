@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgSchemaSharp(props) {
 	return (
 		<svg

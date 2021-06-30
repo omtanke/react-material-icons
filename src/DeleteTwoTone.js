@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgDeleteTwoTone(props) {
 	return (
 		<svg

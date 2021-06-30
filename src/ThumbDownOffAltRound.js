@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgThumbDownOffAltRound(props) {
 	return (
 		<svg

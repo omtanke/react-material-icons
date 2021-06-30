@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgMicRound(props) {
 	return (
 		<svg

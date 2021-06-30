@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgNoMeetingRoomSharp(props) {
 	return (
 		<svg

@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgForward10Sharp(props) {
 	return (
 		<svg

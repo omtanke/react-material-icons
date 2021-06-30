@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgCribSharp(props) {
 	return (
 		<svg

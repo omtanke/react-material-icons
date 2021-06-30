@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgContactSupportOutlined(props) {
 	return (
 		<svg

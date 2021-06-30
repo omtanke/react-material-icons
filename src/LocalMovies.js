@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLocalMovies(props) {
 	return (
 		<svg

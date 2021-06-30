@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgGTranslateTwoTone(props) {
 	return (
 		<svg

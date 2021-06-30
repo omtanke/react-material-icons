@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgLoginSharp(props) {
 	return (
 		<svg

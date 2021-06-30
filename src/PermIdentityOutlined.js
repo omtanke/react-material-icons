@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 function SvgPermIdentityOutlined(props) {
 	return (
 		<svg
